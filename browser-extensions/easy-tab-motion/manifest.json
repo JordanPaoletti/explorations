@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "easy-tab-motion",
+  "description": "switch between tabs in a vim easy-motion inspired manner",
+  "version": "0.1.0",
+  "commands": {
+    "Open": {
+      "suggested_key": {
+        "default": "Ctrl+J"
+      },
+      "description": "Open and focus on extension window"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}

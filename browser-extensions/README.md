@@ -7,4 +7,5 @@ Various small projects around creating browser extensions and exploring their ap
 * [Chrome Docs Root](https://developer.chrome.com/docs/extensions/mv3/)
 * [Firefox api reference](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API)
 * [Firefox Docs Root](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+* [Opera api reference](https://dev.opera.com/extensions/apis/)
  
