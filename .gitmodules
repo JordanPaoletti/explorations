@@ -1,0 +1,3 @@
+[submodule "exploring-web"]
+	path = exploring-web
+	url = git@github.com:JordanPaoletti/exploring-web.git
