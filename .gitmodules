@@ -1,3 +1,6 @@
 [submodule "exploring-web"]
 	path = exploring-web
 	url = git@github.com:JordanPaoletti/exploring-web.git
+[submodule "exploring-go"]
+	path = exploring-go
+	url = git@github.com:JordanPaoletti/exploring-go.git
